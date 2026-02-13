@@ -1,0 +1,5 @@
+{
+  "name": "MWS Piattaforma Affiliate 2.0 | Integrazione Mollie + USA & UK",
+  "description": "aggiornamento codice di tracciamento -> ordine passa a spedito \nselezionare più ordini insieme e cambiare lo stato \naggiornamento sezione ORDINI + Solleciti + 24 time",
+  "requestFramePermissions": []
+}
